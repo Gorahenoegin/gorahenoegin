@@ -10,7 +10,7 @@ const Home = () => {
       <section className="h-screen relative">
         <div className="absolute inset-0">
           <img
-            src="https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&q=80"
+            src="/images/hero-image.jpg"
             alt="Gorah Enoegin Interior"
             className="w-full h-full object-cover"
           />
@@ -131,7 +131,7 @@ const Home = () => {
               className="relative aspect-[4/3]"
             >
               <img
-                src="https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?auto=format&fit=crop&q=80"
+                src="/images/featured-image.jpg"
                 alt="Signature Cocktail"
                 className="w-full h-full object-cover"
               />

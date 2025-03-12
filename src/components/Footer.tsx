@@ -24,7 +24,7 @@ const Footer = () => {
           <div>
             <h3 className="text-xl font-light mb-4">Social</h3>
             <a
-              href="https://instagram.com"
+              href="https://www.instagram.com/gorah_enoegin/"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center text-gorah-gray hover:text-white transition-colors"

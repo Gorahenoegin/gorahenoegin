@@ -8,7 +8,7 @@ const About = () => {
       <section className="relative h-[60vh]">
         <div className="absolute inset-0">
           <img
-            src="https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&q=80"
+            src="/images/about-hero.jpg"
             alt="Gorah Enoegin Interior"
             className="w-full h-full object-cover"
           />
@@ -38,9 +38,9 @@ const About = () => {
             >
               <h2 className="heading mb-6">L'Inizio</h2>
               <p className="text-gorah-gray mb-6">
-                Fondata nel 2024, Gorah Enoegin è nata dalla visione di creare uno spazio dove la mixologia innovativa si unisce a un’esperienza gastronomica raffinata, il tutto avvolto in un’atmosfera sofisticata.
+                Fondata nel 2024, Gorah Enoegin è nata dalla visione di creare uno spazio dove la mixologia innovativa si unisce a un'esperienza gastronomica raffinata, il tutto avvolto in un'atmosfera sofisticata.
 
-I nostri fondatori hanno voluto ridefinire l’arte del bere e del mangiare, combinando cocktail d’autore con una cucina ricercata, pensata per esaltare ogni sorso.
+I nostri fondatori hanno voluto ridefinire l'arte del bere e del mangiare, combinando cocktail d'autore con una cucina ricercata, pensata per esaltare ogni sorso.
 Ogni dettaglio del nostro locale è stato accuratamente curato per offrire un ambiente che ispiri la scoperta, la conversazione e momenti indimenticabili.
               </p>
              
@@ -52,7 +52,7 @@ Ogni dettaglio del nostro locale è stato accuratamente curato per offrire un am
               className="relative aspect-square"
             >
               <img
-                src="https://images.unsplash.com/photo-1470337458703-46ad1756a187?auto=format&fit=crop&q=80"
+                src="/images/about-story.jpg"
                 alt="Gorah Enoegin Interior"
                 className="w-full h-full object-cover"
               />
