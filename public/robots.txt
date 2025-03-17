@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Sitemap: https://gorah.vercel.app/sitemap.xml
+
+# Disallow: /admin/  # Esempio di come bloccare cartelle private
+# Disallow: /private/ # Esempio di come bloccare altre cartelle private 
