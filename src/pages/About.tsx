@@ -38,7 +38,7 @@ const About = () => {
             >
               <h2 className="heading mb-6">L'Inizio</h2>
               <p className="text-gorah-gray mb-6">
-                Fondata nel 2024, Gorah Enoegin è nata dalla visione di creare uno spazio dove la mixologia innovativa si unisce a un'esperienza gastronomica raffinata, il tutto avvolto in un'atmosfera sofisticata.
+                Fondata nel 2024, Gorah è nata dalla visione di creare uno spazio dove la mixologia innovativa si unisce a un'esperienza gastronomica raffinata, il tutto avvolto in un'atmosfera sofisticata.
 
 I nostri fondatori hanno voluto ridefinire l'arte del bere e del mangiare, combinando cocktail d'autore con una cucina ricercata, pensata per esaltare ogni sorso.
 Ogni dettaglio del nostro locale è stato accuratamente curato per offrire un ambiente che ispiri la scoperta, la conversazione e momenti indimenticabili.
@@ -72,7 +72,7 @@ Ogni dettaglio del nostro locale è stato accuratamente curato per offrire un am
           >
             <h2 className="heading mb-8">La Nostra Filosofia</h2>
             <p className="text-gorah-gray text-lg mb-12">
-              Presso Gorah Enoegin, crediamo nell'arte di creare momenti. Ogni drink che serviamo, 
+              Presso Gorah, crediamo nell'arte di creare momenti. Ogni drink che serviamo, 
               ogni dettaglio che curiamo e ogni esperienza che creiamo è progettata per elevare il 
               ordinario all'eccezionale.
             </p>

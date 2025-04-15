@@ -46,7 +46,7 @@ const Navbar = () => {
                 isScrolled ? 'text-gorah-teal' : 'text-white'
               }`}
             >
-              GORAH
+              Gorah
             </Link>
           </motion.div>
 

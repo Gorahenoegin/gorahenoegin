@@ -107,7 +107,7 @@ const Home = () => {
                 transition={{ duration: 0.5, delay: 0.2 }}
                 className="text-gorah-gray mb-8"
               >
-                Scopri perché Gorah Enoegin è diventato sinonimo di drink sofisticati e cibo eccezionale.
+                Scopri perché Gorah è diventato sinonimo di drink sofisticati e cibo eccezionale.
               </motion.p>
               <motion.div
                 initial={{ opacity: 0, x: -20 }}
